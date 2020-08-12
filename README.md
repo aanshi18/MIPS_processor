@@ -31,5 +31,11 @@
   ```
  ---
  - Take a look at CO_Lab.pptx for the detailed theory and diagrams of each block of the processor
- 
+ ---
+ ## Contributors
+
+---
+
+| [Aanshi Patwari](https://github.com/aanshi18)                                                                                                            | [Dipika Pawar](https://github.com/DipikaPawar12)                                                                                                            | [Miracle Rindani](https://github.com/mrindani)                                                                                                |
+
  
