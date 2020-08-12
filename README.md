@@ -3,6 +3,7 @@
 
 - This processor in a 16 bit processor with some sepcific features and some specific blocks.
  ---
+ ```
   - Execution Block
   - Program Memory Block
   - Instruction Memory Block
@@ -12,6 +13,7 @@
   - Write Back Block
   - Jump Control Block
   - Dependency Check Block
+  ```
  ---
  - Here is the full block diagram
  ---
