@@ -21,8 +21,15 @@
  
  - Booth Algo
  ---
-  - 
+  ```
+   - The main aim of including the feature of booth algorithm is that it performs the multiplication fast.The number of steps required for the product calculation of two numbers      are reduced significantly.
+   - The reduction in the number of steps reduces the complexity thereby reducing the time for performing the multiplication algorithm.
+   - It can be used for both positive and negative integers.
+   - We have also tried to implement the cordic algorithm which is used for computation of trigonometric functions.
+   - This algorithm uses simple add-shift operation with less complexity.
+
+  ```
  ---
- 
+ - Take a look at CO_Lab.pptx for the detailed theory and diagrams of each block of the processor
  
  
