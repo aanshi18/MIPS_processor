@@ -16,13 +16,13 @@
   - Dependency Check Block
   ```
  ---
- - Block Diagram
+  Block Diagram
  ---
  <p>
 <img src = "MIPS Block Diagram.png">
 </p>
  
- - Booth Algorithm(In the booth algo folder)
+ Booth Algorithm(In the booth algo folder)
  ---
   ```
    - The main aim of including the feature of booth algorithm is that it performs the multiplication fast.The number of steps required for the product calculation of two numbers      are reduced significantly.
