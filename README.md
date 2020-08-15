@@ -17,7 +17,9 @@
  ---
  - Here is the full block diagram
  ---
- 
+ <p>
+<img src = "MIPS Block Diagram.PNG">
+</p>
  
  - Booth Algo
  ---
