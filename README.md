@@ -1,7 +1,8 @@
 # MIPS_processor
 ---
-
-- This processor in a 16 bit processor with some sepcific features and some specific blocks.
+ Blocks of the Processor
+---
+- This processor in a 16 bit processor with some sepcific features and some specific blocks. All the blocks together form the processor.
  ---
  ```
   - Execution Block
@@ -15,13 +16,13 @@
   - Dependency Check Block
   ```
  ---
- - Here is the full block diagram
+ - Block Diagram
  ---
  <p>
-<img src = "MIPS Block Diagram.PNG">
+<img src = "MIPS Block Diagram.png">
 </p>
  
- - Booth Algo
+ - Booth Algorithm(In the booth algo folder)
  ---
   ```
    - The main aim of including the feature of booth algorithm is that it performs the multiplication fast.The number of steps required for the product calculation of two numbers      are reduced significantly.
@@ -32,7 +33,7 @@
 
   ```
  ---
- - Take a look at CO_Lab.pptx for the detailed theory and diagrams of each block of the processor
+ - The CO_Lab.pptx contains detailed information about each and every block of the processor.
  ---
  ## Contributors
 
